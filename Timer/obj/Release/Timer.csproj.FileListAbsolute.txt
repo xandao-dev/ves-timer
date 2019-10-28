@@ -1,0 +1,14 @@
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\bin\Release\VesTimer.exe.config
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\bin\Release\VesTimer.exe.manifest
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\bin\Release\VesTimer.application
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\bin\Release\VesTimer.exe
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\bin\Release\VesTimer.pdb
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\Timer.csprojResolveAssemblyReference.cache
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\Timer.Form1.resources
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\Timer.Properties.Resources.resources
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\Timer.csproj.GenerateResource.Cache
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\VesTimer.TrustInfo.xml
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\VesTimer.exe.manifest
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\VesTimer.application
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\VesTimer.exe
+C:\Users\System32\Documents\Visual Studio 2017\Projects\Timer\Timer\obj\Release\VesTimer.pdb
