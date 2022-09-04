@@ -45,9 +45,8 @@
 
 ### Features
 
-* Real time control of the robot arm
-* Record and playback movements
-* Save and load frames
+* timer for solving questions
+* counter for solved and unsolved questions
 
 ### Built With
 
