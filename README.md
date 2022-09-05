@@ -8,11 +8,11 @@
 	This was one of my first projects when I started to learn how to code.
     <br />
 	<br />
-    <a href="https://github.com/xandao6/ves-timer"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/xandao-dev/ves-timer"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/xandao6/ves-timer/issue">Report Bug</a>
+    <a href="https://github.com/xandao-dev/ves-timer/issue">Report Bug</a>
     ·
-    <a href="https://github.com/xandao6/ves-timer/issues">Request Feature</a>
+    <a href="https://github.com/xandao-dev/ves-timer/issues">Request Feature</a>
   </p>
 </p>
 
@@ -38,7 +38,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/xandao6/ves-timer">
+  <a href="https://github.com/xandao-dev/ves-timer">
     <img src="./assets/vestimer.jpg" alt="vestimer desktop application">
   </a>
 </div>
@@ -55,7 +55,7 @@
 
 ## Roadmap
 
-See the [open issues](https://github.com/xandao6/ves-timer/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/xandao-dev/ves-timer/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -75,6 +75,6 @@ Free software =)
 
 ## Contact
 
-Alexandre Calil - [@xandao6](https://www.linkedin.com/in/xandao6/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [@xandao-dev](https://www.linkedin.com/in/xandao-dev/) - alexandrecalilmf@gmail.com
 
-Project Link: [https://github.com/xandao6/ves-timer](https://github.com/xandao6/ves-timer)
+Project Link: [https://github.com/xandao-dev/ves-timer](https://github.com/xandao-dev/ves-timer)
